@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahalakshmi B.
 - 👀 I’m interested in learning new things. 
-- 🌱 I’m currently learning c programming.
+- 🌱 I’m currently learning python programming.
 - ✊ I will do my best.
 <!---
 Maha257/Maha257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
